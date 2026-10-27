@@ -1,0 +1,6 @@
+html,body{margin:0;padding:0;background:#f7f7f3}
+html.lenis,html.lenis body{height:auto}
+.lenis.lenis-smooth{scroll-behavior:auto!important}
+.lenis.lenis-stopped{overflow:hidden}
+/* Nella app React il contenitore occupa già tutta la pagina */
+#nutraintel-experience{width:100%;margin-left:0}
